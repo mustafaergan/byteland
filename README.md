@@ -34,5 +34,5 @@ For each test case, output a separate line containing one number, equal to the m
 	5
 	
 ### How To Work
-The project is a maven project which you can import into aany ide(ecilpse,netbeans etc.) 
+The project is a maven project which you can import into any ide(ecilpse,netbeans etc.) 
 Run the App.java class that is under the com.mustafaergan.byteland package and the above input data are entered.
